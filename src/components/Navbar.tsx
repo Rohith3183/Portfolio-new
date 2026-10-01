@@ -37,7 +37,7 @@ export const Navbar: React.FC<NavbarProps> = ({ doctor }) => {
 
   const navLinks = [
     { label: 'Home', href: '#home', id: 'home' },
-    { label: 'ABOUT', href: '#about', id: 'about' },
+    { label: 'About', href: '#about', id: 'about' },
     { label: 'Education', href: '#education', id: 'education' },
     { label: 'Publications', href: '#publications', id: 'publications' },
     { label: 'Experience', href: '#experience', id: 'experience' },
